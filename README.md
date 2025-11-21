@@ -58,8 +58,7 @@ switch2.
 <img width="1442" height="898" alt="image" src="https://github.com/user-attachments/assets/577f4b8e-a958-4ffb-8bcc-5e289906478b" />
 
 #### Tabulation:1
-
-![WhatsApp Image 2025-11-03 at 11 22 47 PM](https://github.com/user-attachments/assets/1ae7de74-646d-4a45-bc4a-56d1e5262dc3)
+<img width="492" height="359" alt="image" src="https://github.com/user-attachments/assets/f2034ebd-12d2-4900-8eef-3219b9ff4753" />
 
 ## Cross connection: CIRCUIT DIAGRAM:
 
@@ -68,7 +67,7 @@ switch2.
 
 #### Tabulation:2
 
-![WhatsApp Image 2025-11-03 at 11 22 48 PM](https://github.com/user-attachments/assets/68ea2585-c1d1-4c75-b83e-4c39525615cb)
+<img width="521" height="439" alt="image" src="https://github.com/user-attachments/assets/3c7fe903-ad87-4af6-a7df-5738530138de" />
 
 
 ## RESULT:
